@@ -1,0 +1,9 @@
+{
+  "name": "mon-bot-discord",
+  "version": "0.0.0",
+  "description": "monBotDiscord",
+  "main": "app.js",
+  "author": {
+    "name": "leo.espeu"
+  }
+}
